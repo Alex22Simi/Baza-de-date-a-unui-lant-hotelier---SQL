@@ -1,3 +1,6 @@
 [submodule "Lant_Hotelier_PL-SQL"]
 	path = Lant_Hotelier_PL-SQL
 	url = https://github.com/Alex22Simi/Lant_Hotelier_PL-SQL
+[submodule "Lant_Hotelier_Apex_OracleAplications"]
+	path = Lant_Hotelier_Apex_OracleAplications
+	url = https://github.com/Alex22Simi/Lant_Hotelier_Apex_OracleAplications
